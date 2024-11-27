@@ -15,12 +15,11 @@ const Header = () => {
             <ul>
                 <li>Woman</li>
                 <li>Men</li>
-                <li>Children</li>
+                <li title="Children">Children</li>
                 <li>Beauty</li>
             </ul>
         </div>
         <div className="search">
-
             <input type="text" placeholder='Search...' />
         </div>
         <div className='right'>
